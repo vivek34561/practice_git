@@ -2,8 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+myenv3/
 myenv2/
+newfolder/
 # C extensions
 *.so
 
