@@ -1,8 +1,8 @@
 def sum(a , b):
     return a+b
 
-def subs(a , b):
-    return a-b
+def subs(a , b , c):
+    return a-b-c
 
 def multi(a , b):
     return a*b
